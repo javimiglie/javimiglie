@@ -1,6 +1,6 @@
 # Sobre Mi👋
 
-Mi nombre es Javier Alberto Miglierini, soy de Córdoba Capital, Argentina  y me encuentro trabajando como Ejecutivo comercial en una empresa de ventas de casa prefabricadas con los sistemas Wood Frame y Steel Frame. Me encargo de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
+Mi nombre es Javier Miglierini, soy de Córdoba Capital, Argentina  y me encuentro trabajando como Ejecutivo comercial en una empresa de ventas de casa prefabricadas con los sistemas Wood Frame y Steel Frame. Me encargo de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
 
 
 A fines del 2021 decidí dar un giro, empezar a introducirme al mundo de la programación y actualmente me encuentro estudiando la carrerra de Programador Full Stack en CoderHouse.
