@@ -1,9 +1,11 @@
 # Sobre Mi👋
 
-Mi nombre es Javier Miglierini, soy de Córdoba Capital, Argentina  y me encuentro trabajando como Ejecutivo comercial en una empresa de ventas de casa prefabricadas con los sistemas Wood Frame y Steel Frame. Me encargo de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
+Mi nombre es Javier Miglierini, soy Argentino y actualmente me encuentro viviendo en Playa del Carmen, Mexico. A lo largo de los años he trabajado como ejecutivo comercial en diferentes empresas, como por ejemplo Grupo Max, que realizan ventas de casas prefabricadascon los sistemas Wood Frame y Steel Frame. Me encargaba de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
+
+Además he trabajado en Inomax, que ofrecen diferentes productos para la industrias del vidrio y mi labor era realizar la venta a cada cliente que nos contactaba por diferentes medios como ser llamadas telefónicas, mensajes de WhatsApp y de manera directa en la oficina, como así tambien asesorar sobre la utilidad de cada articulo sobre sus usos y cualidades.
 
 
-A fines del 2021 decidí dar un giro, empezar a introducirme al mundo de la programación y actualmente me encuentro estudiando la carrerra de Programador Full Stack en CoderHouse.
+A fines del 2021 decidí dar un giro, empezar a introducirme al mundo de la programación y actualmente estudié la carrera de Desarrollador Forntend en CoderHouse.
 
 Ya he finalizado y aprobado correctamente los cursos de:
 - Desarrollo Web
@@ -50,6 +52,6 @@ Page: [Tienda Javi](https://tienda-react-blush.vercel.app/)
 
 
 #### Datos de Contato
-- Teléfono: 3513598000
-- Email: javier.miglierini@hotmail.es
+- Teléfono: 9841434684
+- Email: javimiglie.mx@gmail.com
 - LinkedIn: www.linkedin.com/in/javier-miglierini
