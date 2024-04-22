@@ -1,6 +1,6 @@
 # Sobre Mi👋
 
-Mi nombre es Javier Miglierini, soy Argentino y actualmente me encuentro viviendo en Playa del Carmen, Mexico. A lo largo de los años he trabajado como ejecutivo comercial en diferentes empresas, como por ejemplo Grupo Max, que realizan ventas de casas prefabricadascon los sistemas Wood Frame y Steel Frame. Me encargaba de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
+Mi nombre es Javier Miglierini, soy Argentino y actualmente me encuentro viviendo en Playa del Carmen, Mexico. A lo largo de los años he trabajado como ejecutivo comercial en diferentes empresas, como por ejemplo Grupo Max, que realizan ventas de casas prefabricadas con los sistemas Wood Frame y Steel Frame. Me encargaba de hacer el primer contacto con el cliente, desarrollar el tipo de producto, mantener una escucha activa, solucionar las inquietudes del cliente como así también de el armado de presupuesto, negociación y cierre de contrato.
 
 Además he trabajado en Inomax, que ofrecen diferentes productos para la industrias del vidrio y mi labor era realizar la venta a cada cliente que nos contactaba por diferentes medios como ser llamadas telefónicas, mensajes de WhatsApp y de manera directa en la oficina, como así tambien asesorar sobre la utilidad de cada articulo sobre sus usos y cualidades.
 
